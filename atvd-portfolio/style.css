@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(103, 2, 2);
+    margin: 0;
+    padding: 2em;
+    font-family: Edu AU VIC WA NT Dots;
+}
+
+h1{
+    font-size: 36px;
+    margin-bottom: 1em;
+}
+
+.habilidade-1{
+    color: aquamarine;
+    list-style: square;
+}
+
+.habilidade-2{
+    color: green;
+    list-style: square;
+}
+
+.habilidade-3{
+    color:aliceblue;
+    list-style: circle;
+}
+
+.habilidade-4{
+    color: blueviolet;
+    list-style: circle;
+}
+.habilidade-5{
+    color: blue;
+    list-style: circle;
+}
+
+.bio{
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.lista{
+    font-weight: bold;
+}
